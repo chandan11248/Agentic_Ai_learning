@@ -1,0 +1,24 @@
+# Core LangChain packages
+langchain
+langchain-core
+langchain-community
+
+# LangGraph
+langgraph
+
+# LLM Providers (uncomment as needed)
+langchain-openai
+# langchain-anthropic
+# langchain-google-genai
+
+# Vector stores & embeddings
+# chromadb
+# faiss-cpu
+
+# Utilities
+python-dotenv
+pydantic
+
+# Jupyter support
+ipykernel
+jupyter
